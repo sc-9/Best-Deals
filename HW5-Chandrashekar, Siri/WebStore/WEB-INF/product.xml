@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+
+    <laptop id="asus">
+        <name>Asus</name>
+        <price>399.99</price>
+        <image>1.png</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+
+    <laptop id="HP">
+        <name>HP</name>
+        <price>349.99</price>
+        <image>2.png</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+    <laptop id="dell">
+        <name>Dell</name>
+        <price>349.99</price>
+        <image>3.png</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>dell_wc</accessory>
+
+        </accessories>
+    </laptop>
+    <laptop id="Dell_1">
+        <name>Dell</name>
+        <price>249.99</price>
+        <image>4.png</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+    <laptop id="acer">
+        <name>Acer</name>
+        <price>249.99</price>
+        <image>5.png</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+    <laptop id="Mac">
+        <name>Macbook air</name>
+        <price>249.99</price>
+        <image>6.png</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+    <laptop id="hp_1">
+        <name>HP</name>
+        <price>249.99</price>
+        <image>7.png</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+    <laptop id="Dell_2">
+        <name>Dell 2</name>
+        <price>249.99</price>
+        <image>8.png</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+
+
+
+
+    <phone id="s8">
+        <name>Samsung s8</name>
+        <price>189.99</price>
+        <image>1.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </phone>
+    <phone id="s9">
+        <name>Samsun s9</name>
+        <price>189.99</price>
+        <image>2.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </phone>
+    <phone id="nexus">
+        <name>Nexus</name>
+        <price>299.99</price>
+        <image>3.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+    <phone id="iphone6">
+        <name>Iphone 6</name>
+        <price>299.99</price>
+        <image>4.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+    <phone id="iphone7">
+        <name>Iphone 7</name>
+        <price>150.99</price>
+        <image>5.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+
+    <phone id="iphoneX">
+        <name>Iphone X</name>
+        <price>150.99</price>
+        <image>6.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+
+    <phone id="sony">
+        <name>Sony Xperia</name>
+        <price>150.99</price>
+        <image>7.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+
+    <phone id="xperia">
+        <name>Xperia C3</name>
+        <price>150.99</price>
+        <image>5.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+
+
+<watch id="g1">
+        <name>Moto g1</name>
+        <price>50.99</price>
+        <image>1.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g2">
+        <name>Samsung</name>
+        <price>50.99</price>
+        <image>2.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g3">
+        <name>Moto</name>
+        <price>50.99</price>
+        <image>3.png</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g4">
+        <name>Evolve</name>
+        <price>50.99</price>
+        <image>4.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g5">
+        <name>Sony c3</name>
+        <price>50.99</price>
+        <image>5.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g6">
+        <name>Cooper</name>
+        <price>50.99</price>
+        <image>6.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+<watch id="g7">
+        <name>LG</name>
+        <price>50.99</price>
+        <image>7.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</watch>
+
+
+
+<fitness id="f1">
+        <name>Fitbit aqua</name>
+        <price>50.99</price>
+        <image>1.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</fitness>
+<fitness id="f2">
+        <name>Fitbit versa</name>
+        <price>50.99</price>
+        <image>2.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</fitness>
+<fitness id="f3">
+        <name>Fitbit small</name>
+        <price>50.99</price>
+        <image>3.png</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</fitness>
+<fitness id="f4">
+        <name>Fitbit large</name>
+        <price>50.99</price>
+        <image>4.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</fitness>
+<fitness id="f5">
+        <name>Fitbit</name>
+        <price>50.99</price>
+        <image>5.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</fitness>
+
+
+<headphone id="h1">
+        <name>JBL</name>
+        <price>50.99</price>
+        <image>1.jpg</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h2">
+        <name>Sony</name>
+        <price>50.99</price>
+        <image>2.jpg</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h3">
+        <name>Samsung</name>
+        <price>50.99</price>
+        <image>3.jpg</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h4">
+        <name>Sanheisser</name>
+        <price>50.99</price>
+        <image>4.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h5">
+        <name>SkullCandy</name>
+        <price>50.99</price>
+        <image>5.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h6">
+        <name>LG</name>
+        <price>50.99</price>
+        <image>6.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="h7">
+        <name>phillips</name>
+        <price>50.99</price>
+        <image>7.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+
+
+
+<pettracker id="p1">
+        <name>Samsung Dog Tracker</name>
+        <price>50.99</price>
+        <image>1.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</pettracker>
+<pettracker id="p2">
+        <name>Sony Dog Tracker</name>
+        <price>50.99</price>
+        <image>2.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</pettracker>
+<pettracker id="p3">
+        <name>Cat Tracker</name>
+        <price>50.99</price>
+        <image>3.png</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</pettracker>
+<pettracker id="p4">
+        <name>Dog Tracker</name>
+        <price>50.99</price>
+        <image>4.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</pettracker>
+
+<speaker id="s1">
+        <name>Google Home Mini</name>
+        <price>50.99</price>
+        <image>1.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</speaker>
+<speaker id="s2">
+        <name>Alexa</name>
+        <price>50.99</price>
+        <image>2.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</speaker>
+<speaker id="s3">
+        <name>Echo</name>
+        <price>50.99</price>
+        <image>3.png</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</speaker>
+<speaker id="s4">
+        <name>Google Home max</name>
+        <price>50.99</price>
+        <image>4.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</speaker>
+<speaker id="s5">
+        <name>JBL</name>
+        <price>50.99</price>
+        <image>5.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</speaker>
+
+<vr id="vr1">
+        <name>VR1</name>
+        <price>50.99</price>
+        <image>1.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</vr>
+<vr id="vr2">
+        <name>VR2</name>
+        <price>50.99</price>
+        <image>2.png</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</vr>
+<vr id="vr3">
+        <name>VR3</name>
+        <price>50.99</price>
+        <image>3.png</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</vr>
+<vr id="vr4">
+        <name>VR4</name>
+        <price>50.99</price>
+        <image>4.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</vr>
+<vr id="vr5">
+        <name>VR5</name>
+        <price>50.99</price>
+        <image>5.png</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</vr>
+
+</ProductCatalog>
